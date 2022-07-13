@@ -1,0 +1,13 @@
+﻿  Actor.cpp
+  AnimSpriteComponent.cpp
+  BGSpriteComponent.cpp
+  Component.cpp
+  Game.cpp
+  Ship.cpp
+  source.cpp
+  SpriteComponent.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 598 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ChapterTwo.vcxproj -> C:\C++\Projects\GameProgrammingInCPP\ChapterTwo\Release\ChapterTwo.exe
